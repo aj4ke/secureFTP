@@ -1,15 +1,11 @@
 # Secure File Transfer Project
-
- Intro to Computer Security COMP 2300\
- University of Massachusetts Lowell\
- Kennedy College of Sciences\
- Professor: Sashank Narain - Computer Science Department/Cybersecurity
+ University of Massachusetts Lowell
 
 ### Authors:
 Patricia Antlitz\
 Andrew Jacobson\
-Flower Letourneau\
-Paul Warwick
+Paul Warwick\
+Flower Letourneau
 
 ---
 
@@ -105,11 +101,8 @@ then kill it by:
 
 ### Technologies Used:
 Python\
-GitHub\
-Git\
 Json\
 Hashing by bcrypt\
 SSL\
 TLS\
 RSA
-
